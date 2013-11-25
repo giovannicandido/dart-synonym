@@ -361,11 +361,9 @@ The build is RED
     <code language="python"><![CDATA[
 >>> mynull = None
 
-# in Python 'is' is used for identity testing, '==' is used for equality testing
+# in Python 'is' is used for identity testing
 >>> if mynull is None:
 ...     print('mynull is None')
->>> if mynull == None:
-...     print('mynull == None')
 ]]></code>
   </synonym>
   <synonym id="syn-checking-for-nan">
