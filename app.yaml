@@ -1,5 +1,5 @@
 application: dartrosettastone
-version: m3-updates
+version: 2013-07-03-10
 runtime: python27
 api_version: 1
 threadsafe: true
